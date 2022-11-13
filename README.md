@@ -1,4 +1,4 @@
-# Holmes  :smiley_cat: 
+# Holmes  
 ![GitHub](https://img.shields.io/github/license/Omoshirokunai/holmes?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/Omoshirokunai/holmes?style=flat-square)
 
 **Image fogery detection tool using streamlit + electron**
